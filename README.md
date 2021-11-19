@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  <a href="marcelosousafigueira@gmail.com" alt="Gmail">
+  <a href="mailto:marcelosousafigueira@gmail.com?subject=Olá tudo bem?%20again" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
 
   <a href="https://www.linkedin.com/in/marcelosousafigueira/" alt="Linkedin">
