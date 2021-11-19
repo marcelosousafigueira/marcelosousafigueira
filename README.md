@@ -6,11 +6,11 @@
    > daddasdsa
 
 <p align="left">
-  🎓Academico: <strong>Estudante de Ciencia da Computação - <a href="link da sua faculdade">Anhanguera </a></strong>
+  🎓Academico: <strong>Estudante de Ciência da Computação - <a href="https://www.anhanguera.com/">Anhanguera.</a></strong>
 </p>
 
 <p align="left">
-  💼 Trabalhando: <strong>Estagiando na area de ITO na <a href="link da sua faculdade">Kroton</a></strong>
+  💼 Trabalhando: <strong>Estagiando na área de ITO na <a href="https://kroton.com.br/">Kroton.</a></strong>
 </p>
 <p align="left">
  💻 Estudando: <strong>Node.js.</strong>
@@ -21,20 +21,20 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marcelosousafigueira@gmail.com" /></a>
+  <a href="marcelosousafigueira@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelosousafigueira/" /></a>
+  <a href="https://www.linkedin.com/in/marcelosousafigueira/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/MarceloSousaFigueira"/></a>
+  <a href="https://www.facebook.com/MarceloSousaFigueira" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="/></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/marcelofigo/"/></a>
+  <a href="https://www.instagram.com/marcelofigo/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
 </p> 
 
 ----
