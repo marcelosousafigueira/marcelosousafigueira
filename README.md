@@ -38,7 +38,6 @@
 </p> 
 
 ----
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 ## 🚀 Minhas Skills
 
 
@@ -55,7 +54,6 @@
 
 ---
 
-<<<<<<< HEAD
 <div align="center">
   <a href="https://github.com/marcelosousafigueira">
 
@@ -69,13 +67,3 @@
   [![card](https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&theme=dracula&show_icons=true)](https://github.com/marcelosousafigueira/)
   [![marcelosousafigueira](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&hide=html&layout=compact&theme=dracula)](https://github.com/marcelosousafigueira/)
 
-=======
-<p float="left">
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
-  ![Snake animation](https://github.com/marcelosousafigueira/marcelosousafigueira/blob/output/github-contribution-grid-snake.svg)
-   
->>>>>>> d7eace10e3ef75f80324af2f2d03e24c7e5fc25d
