@@ -52,7 +52,7 @@
 <code><a href="https://www.mongodb.com/" alt="MongoDB" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></a></code>
 
 ----
-<div align="center">
+<div>
   <a href="https://github.com/marcelosousafigueira">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=10&theme=dracula"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
