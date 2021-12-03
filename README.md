@@ -55,10 +55,11 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/marcelosousafigueira">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p float="left">
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
   ![Snake animation](https://github.com/marcelosousafigueira/marcelosousafigueira/blob/output/github-contribution-grid-snake.svg)
+   
