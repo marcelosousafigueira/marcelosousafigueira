@@ -1,9 +1,8 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá, meu nome é <strong>Marcelo Figueira!</strong>💜 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá, meu nome é <strong>Marcelo Figueira!</strong>💜
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Marcelo">
 
-
-   > Olá me chamo Marcelo, tenho 26 anos, estou cursando ciência da computação e estou estagiando na área de ITO, estou estudando e me qualificando para me tornar um DEV de respeito no mercado.
+> Olá me chamo Marcelo, tenho 26 anos, estou cursando ciência da computação e estou estagiando na área de ITO, estou estudando e me qualificando para me tornar um DEV de respeito no mercado.
 
 <p align="left">
   🎓Academico: <strong>Estudante de Ciência da Computação - <a href="https://www.anhanguera.com/">Anhanguera.</a></strong>
@@ -35,9 +34,10 @@
 
   <a href="https://www.instagram.com/marcelofigo/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
-</p> 
+</p>
 
-----
+---
+
 ## 🚀 Minhas Skills
 
 <code><a href="https://www.javascript.com/" alt="Javascript" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></a></code>
@@ -51,22 +51,14 @@
 <code><a href="https://www.postgrescompare.com/" alt="PostegreSQL" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><a href="https://www.mongodb.com/" alt="MongoDB" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></a></code>
 
-----
-<<<<<<< HEAD
-=======
+---
+
 <div align="center">
-<<<<<<< HEAD
+
   <a href="https://github.com/marcelosousafigueira">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=10&theme=dracula"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
->>>>>>> parent of 229aaae (Update README.md)
 
-=======
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=7&theme=dracula"/>
+![Snake animation](https://github.com/marcelosousafigueira/marcelosousafigueira/blob/output/github-contribution-grid-snake.svg)
 
-  ![Snake animation](https://github.com/marcelosousafigueira/marcelosousafigueira/blob/output/github-contribution-grid-snake.svg)
 </div>
->>>>>>> parent of 900a030 (Update README.md)
