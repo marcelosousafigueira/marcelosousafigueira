@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Trabalhando: <strong>Estagiando na área de ITO na <a href="https://kroton.com.br/">Kroton.</a></strong>
+  💼 Trabalhando: <strong>Buscando novas Experiências.</a></strong>
 </p>
 <p align="left">
  💻 Estudando: <strong>Node.js.</strong>
