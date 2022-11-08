@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Marcelo">
 
-> Olá me chamo Marcelo, tenho 26 anos, estou cursando ciência da computação e estou estagiando na área de ITO, estou estudando e me qualificando para me tornar um DEV de respeito no mercado.
+> Olá me chamo Marcelo, tenho 27 anos, estou cursando ciência da computação e estou estagiando na área de Analise da dados, estou estudando e me qualificando para me tornar um DEV de respeito no mercado.
 
 <p align="left">
   🎓Academico: <strong>Estudante de Ciência da Computação - <a href="https://www.anhanguera.com/">Anhanguera.</a></strong>
