@@ -9,10 +9,10 @@
 </p>
 
 <p align="left">
-  💼 Trabalhando: <strong>Buscando novas Experiências.</a></strong>
+  💼 Trabalhando: <strong>Estagiario - <a href="https://www.glorian.com.br">EMP Sistemas e Serviços.</a></strong>
 </p>
 <p align="left">
- 💻 Estudando: <strong>Node.js.</strong>
+ 💻 Estudando: <strong>Node.js - PL/SQL - ReactJS.</strong>
 </p>
 
 <p align="left">
@@ -58,7 +58,5 @@
   <a href="https://github.com/marcelosousafigueira">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=10&theme=dracula"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-
 
 </div>
