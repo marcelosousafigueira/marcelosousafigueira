@@ -58,5 +58,6 @@
   <a href="https://github.com/marcelosousafigueira">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=10&theme=dracula"/>
 
-![Anurag's1 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![GitHubs Stats](https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&hide_progress=true)
