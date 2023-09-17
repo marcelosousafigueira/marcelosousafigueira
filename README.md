@@ -20,8 +20,6 @@
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32px">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="32px">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32px">
-</br>
-</br>
 
 # 💻 Linguagens e Ferramentas
 
@@ -39,8 +37,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=10&theme=radical)
 ![GitHubs Stats](https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=radical&rank_icon=github)
-
-</br>
 
 # 🔗 Entre em contato comigo:
 
