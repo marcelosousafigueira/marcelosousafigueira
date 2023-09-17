@@ -1,63 +1,47 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="32px"> Olá, meu nome é <strong>Marcelo Figueira!</strong>💜
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="32px"> Olá, meu nome é <strong>Marcelo Figueira!</strong>💜
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Marcelo">
 
-> Olá me chamo Marcelo, tenho 27 anos, estou cursando ciência da computação e estou estagiando na área de Analise da dados, estou estudando e me qualificando para me tornar um DEV de respeito no mercado.
+> :black_nib: Olá, sou o Marcelo, um profissional de 27 anos formado em Ciência da Computação, atualmente atuando como Analista de Sistemas Júnior.
+
+> 🚀 Apaixonado por tecnologia e desenvolvimento de software, estou em busca de desafios empolgantes e oportunidades de aprendizado contínuo.
+
+> 💻 Meu foco principal é aprimorar minhas habilidades em programação e colaborar em projetos que impulsionem a inovação e a excelência técnica.
 
 <p align="left">
-  🎓Academico: <strong>Estudante de Ciência da Computação - <a href="https://www.anhanguera.com/">Anhanguera.</a></strong>
-</p>
-
-<p align="left">
-  💼 Trabalhando: <strong>Estagiario - <a href="https://www.glorian.com.br">EMP Sistemas e Serviços.</a></strong>
+  🎓Academico: <strong>Formado em Ciência da Computação - <a href="https://www.anhanguera.com/">Anhanguera.</a></strong>
 </p>
 <p align="left">
- 💻 Estudando: <strong>Node.js - PL/SQL - ReactJS.</strong>
+  💼 Trabalhando atualmente: <strong>Analista de Sistemas Júnior  - <a href="https://www.glorian.com.br">EMP Sistemas e Serviços.</a></strong>
 </p>
+<p align="left">
+ :books: Estudando: <strong>Java - SQL Server - ReactJS.</strong>
+</p>
+
+# 💻 Linguagens e Ferramentas
+
+<p align="left"> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a> </p>
+
+<h3> :octocat: Informações sobre minha conta GitHub </h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=10&theme=radical)
+![GitHubs Stats](https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=radical&rank_icon=github)
+
+# 🔗 Entre em contato comigo:
 
 <p align="left">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Aqui estão os meus contatos: ⤵️
+<a href="https://dev.to/marcelosousafigueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marcelosousafigueira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marcelosousafigueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelosousafigueira" height="30" width="40" /></a>
+<a href="https://fb.com/marcelosousafigueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marcelosousafigueira" height="30" width="40" /></a>
+<a href="https://instagram.com/marcelosousafigueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcelosousafigueira" height="30" width="40" /></a>
+<a href="https://discord.gg/.marcelofigueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".marcelofigueira" height="30" width="40" /></a>
 </p>
-
-<p align="left">
-  <a href="mailto:marcelosousafigueira@gmail.com?subject=Olá tudo bem?%20again" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
-
-  <a href="https://www.linkedin.com/in/marcelosousafigueira/" alt="Linkedin" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
-
-  <a href="#" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="https://www.facebook.com/MarceloSousaFigueira" alt="Facebook" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="/></a>
-
-  <a href="https://www.instagram.com/marcelosousafigueira/" alt="Instagram" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
-</p>
-
----
-
-## 🚀 Minhas Skills
-
-<code><a href="https://www.javascript.com/" alt="Javascript" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></a></code>
-<code><a href="https://www.typescriptlang.org/" alt="Typescript" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></a></code>
-<code><a href="https://nodejs.org/en/" alt="Nodejs" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></a></code>
-<code><a href="https://html5.org/" alt="HTML5" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></a></code>
-<code><a href="https://www.w3.org/Style/CSS/Overview.en.html" alt="CSS" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></a></code>
-<code><a href="https://getbootstrap.com/" alt="Bootstrap" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><a href="https://pt-br.reactjs.org/" alt="React" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></a></code>
-<code><a href="https://www.mysql.com/" alt="MySQL" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></a></code>
-<code><a href="https://www.postgrescompare.com/" alt="PostegreSQL" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><a href="https://www.mongodb.com/" alt="MongoDB" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></a></code>
-
----
-
-## ⭐ Informações sobre minha conta GitHub
-
-  <a href="https://github.com/marcelosousafigueira">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=10&theme=dracula"/>
-
-![GitHubs Stats](https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&hide_progress=true)
