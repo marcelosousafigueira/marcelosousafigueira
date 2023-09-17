@@ -55,6 +55,8 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+  <a href="https://github.com/marcelosousafigueira">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=10&theme=dracula"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=radical)
+![Anurag's1 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHubs Stats](https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=radical)
