@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Marcelo">
 
-> :black_nib: Olá, sou o Marcelo, um profissional de 27 anos formado em Ciência da Computação, atualmente atuando como Analista de Sistemas Júnior.
+> :black_nib: Olá, sou o Marcelo, um profissional de 28 anos formado em Ciência da Computação, atualmente atuando como Analista de Sistemas Júnior.
 
 > 🚀 Apaixonado por tecnologia e desenvolvimento de software, estou em busca de desafios empolgantes e oportunidades de aprendizado contínuo.
 
@@ -15,8 +15,13 @@
   💼 Trabalhando atualmente: <strong>Analista de Sistemas Júnior  - <a href="https://www.glorian.com.br">EMP Sistemas e Serviços.</a></strong>
 </p>
 <p align="left">
- :books: Estudando: <strong>Java - SQL Server - ReactJS.</strong>
+ :books: Estudando atualmente: 
 </p>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32px">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="32px">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32px">
+</br>
+</br>
 
 # 💻 Linguagens e Ferramentas
 
@@ -30,11 +35,12 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a> </p>
-
 <h3> :octocat: Informações sobre minha conta GitHub </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosousafigueira&layout=compact&langs_count=10&theme=radical)
 ![GitHubs Stats](https://github-readme-stats.vercel.app/api?username=marcelosousafigueira&show_icons=true&theme=radical&rank_icon=github)
+
+</br>
 
 # 🔗 Entre em contato comigo:
 
